@@ -4,7 +4,7 @@
             Exercise 2.3 Lab 2
             (server)
  
-            Student:Antonio Tavera | ID:243869
+            Developer: Antonio Tavera
  
  ************ BRIEF EXPLANATION OF THE ALGORITHM ************
 In this exercise I am developing a TCP sequential server that, after having established a TCP connection with a client, accepts file transfer requests and sends the requested files following its specific protocol.
