@@ -4,7 +4,7 @@
             Exercise 2.3 Lab 2
             (client)
 
-            Student:Antonio Tavera
+            Developer: Antonio Tavera
 
 ************ BRIEF EXPLANATION OF THE ALGORITHM *************
 
